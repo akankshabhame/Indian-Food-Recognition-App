@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "AI Food Nutrition",
+    "slug": "ai-food-nutrition",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFFFFF"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.aifoodnutrition"
+    },
+    "android": {
+      "package": "com.anonymous.aifoodnutrition",
+      "permissions": ["CAMERA", "READ_EXTERNAL_STORAGE"]
+    }
+  }
+}
